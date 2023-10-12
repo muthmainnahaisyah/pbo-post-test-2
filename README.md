@@ -14,6 +14,17 @@ memanajemen data tiket secara efisien, cepat, dan terstruktur.<p>
 <p>Terdapat 2 package pada program ini, yaitu package main dan package travel. Pada package main terdapat 1 file class java, yaitu TRAVEL_AGENT_BOOMILY dan pada package travel terdapat 4 file class java, yaitu tiket, tiket_bisnis, tiket_ekonomi, dan manajemen_tiket. Berikut adalah penjelasan sourcecodenya:<p>
 
 ### TRAVEL_AGENT_BOOMILY.java
+
+![apbo12](https://github.com/muthmainnahaisyah/pbo-post-test-2/assets/122006658/c9e7ca57-3855-4fee-83fe-32e6145a2ff7)
+
+![apbo13](https://github.com/muthmainnahaisyah/pbo-post-test-2/assets/122006658/c8e7c70a-8f5c-4b37-8c70-6db3ab2e6918)
+
+![apbo14](https://github.com/muthmainnahaisyah/pbo-post-test-2/assets/122006658/813373a2-5778-4831-8c63-64391c2716f2)
+
+![apbo15](https://github.com/muthmainnahaisyah/pbo-post-test-2/assets/122006658/f75179bb-b48c-43c5-b369-026d929779f5)
+
+![apbo16](https://github.com/muthmainnahaisyah/pbo-post-test-2/assets/122006658/7bcff471-3dde-4a5d-bbd2-4f3f16009644)
+
 <p></p>
 
 ### tiket.java
@@ -34,6 +45,9 @@ memanajemen data tiket secara efisien, cepat, dan terstruktur.<p>
 ### manajemen_tiket.java
 
 ![apbo10](https://github.com/muthmainnahaisyah/pbo-post-test-2/assets/122006658/323a311f-87e0-408f-a193-55fdbe9bab9e)
+
+![apbo11](https://github.com/muthmainnahaisyah/pbo-post-test-2/assets/122006658/85c2b68d-52a5-4e6f-a71a-23daaab0467e)
+
 <p></p>
 
 ## PENJELASAN OUTPUT PROGRAM
