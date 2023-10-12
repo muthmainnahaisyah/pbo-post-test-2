@@ -17,15 +17,23 @@ memanajemen data tiket secara efisien, cepat, dan terstruktur.<p>
 <p></p>
 
 ### tiket.java
+
+![apbo7](https://github.com/muthmainnahaisyah/pbo-post-test-2/assets/122006658/bb1b49e8-a68e-46be-aba7-b52caa5151d5)
 <p></p>
 
 ### tiket_bisnis.java
+
+![apbo8](https://github.com/muthmainnahaisyah/pbo-post-test-2/assets/122006658/2b4eaa02-79c2-4160-9424-64b27b17e0dc)
 <p></p>
 
 ### tiket_ekonomi.java
+
+![apbo9](https://github.com/muthmainnahaisyah/pbo-post-test-2/assets/122006658/1f8da236-d9fa-4221-a58f-9714c5cbe4d5)
 <p></p>
 
 ### manajemen_tiket.java
+
+![apbo10](https://github.com/muthmainnahaisyah/pbo-post-test-2/assets/122006658/323a311f-87e0-408f-a193-55fdbe9bab9e)
 <p></p>
 
 ## PENJELASAN OUTPUT PROGRAM
