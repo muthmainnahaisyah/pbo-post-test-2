@@ -23,19 +23,14 @@
 ![apbo16](https://github.com/muthmainnahaisyah/pbo-post-test-2/assets/122006658/7bcff471-3dde-4a5d-bbd2-4f3f16009644)
 <p>Berikut merupakan penjelasan sourcecode dari file TRAVEL_AGENT_BOOMILY.java: </p>
 <ol>
-  <li>Pada baris </li>
-  <li>Pada baris </li>
-  <li>Pada baris </li>
-  <li>Pada baris </li>
-  <li>Pada baris </li>
-  <li>Pada baris </li>
-  <li>Pada baris </li>
-  <li>Pada baris </li>
-  <li>Pada baris </li>
-  <li>Pada baris </li>
-  <li>Pada baris </li>
-  <li>Pada baris </li>
-  
+  <li>Pada baris 3 adalah import kelas scanner dari paket java.util yang berguna untuk menerima inputan dari user.</li>
+  <li>Pada baris 4 hingga 6 adalah import kelas-kelas dari package "travel"</li>
+  <li>Pada baris 8 mendeklarasikan kelas utama dengan method "main()" sebagai entry point dalam menjalankan program.</li>
+  <li>Pada baris 9 merupakan method main().</li>
+  <li>Pada baris 10 hingga 12 dapat membaca inputan dari user dengan bantuan objek Scanner dan variabel-variabel untuk menyimpan id, harga, nama_penumpang, dan destinasi. </li>
+  <li>Pada baris 14 adalah sebuah perulangan atau loop.</li>
+  <li>Pada baris 15 hingga 23 adalah menampilkan teks agar dapat menjadi menu.</li>
+  <li>Terdapat switch dengan beberapa case yang digunakan untuk mengelola tindakan dari menampilkan daftar tiket, menambahkan tiket, mengubah tiket, menghapus tiket, dan keluar.</li>
 </ol>
 
 ### tiket.java
