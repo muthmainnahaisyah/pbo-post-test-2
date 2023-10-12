@@ -5,10 +5,7 @@
 <p>KELAS: SI - A 2022<p>
 
 ## TRAVEL AGENT BOOMILY
-<p>Travel Agent Boomily adalah sebuah perusahaan agen perjalanan yang menyediakan kebutuhan perjalanan, salah satunya tiket pesawat. 
-Dalam program ini dibuatkan sebuah manajemen tiket pesawat pada perusahaan Travel Agent Boomily yang dimana program tersebut dapat menambahkan, 
-mengubah, menghapus, dan melihat data tiket penerbangan beserta data dari penumpangnya. Dengan dibuatnya program ini memudahkan perusahaan untuk 
-memanajemen data tiket secara efisien, cepat, dan terstruktur.<p>
+<p>Travel Agent Boomily adalah sebuah perusahaan agen perjalanan yang menyediakan kebutuhan perjalanan, salah satunya tiket pesawat. Dalam program ini dibuatkan sebuah manajemen tiket pesawat pada perusahaan Travel Agent Boomily yang dimana program tersebut dapat menambahkan, mengubah, menghapus, dan melihat data tiket penerbangan beserta data dari penumpangnya. Dengan dibuatnya program ini memudahkan perusahaan untuk memanajemen data tiket secara efisien, cepat, dan terstruktur.<p>
 
 ## PENJELASAN SOURCE CODE
 <p>Terdapat 2 package pada program ini, yaitu package main dan package travel. Pada package main terdapat 1 file class java, yaitu TRAVEL_AGENT_BOOMILY dan pada package travel terdapat 4 file class java, yaitu tiket, tiket_bisnis, tiket_ekonomi, dan manajemen_tiket. Berikut adalah penjelasan sourcecodenya:<p>
@@ -24,13 +21,17 @@ memanajemen data tiket secara efisien, cepat, dan terstruktur.<p>
 ![apbo15](https://github.com/muthmainnahaisyah/pbo-post-test-2/assets/122006658/f75179bb-b48c-43c5-b369-026d929779f5)
 
 ![apbo16](https://github.com/muthmainnahaisyah/pbo-post-test-2/assets/122006658/7bcff471-3dde-4a5d-bbd2-4f3f16009644)
-
 <p></p>
 
 ### tiket.java
 
 ![apbo7](https://github.com/muthmainnahaisyah/pbo-post-test-2/assets/122006658/bb1b49e8-a68e-46be-aba7-b52caa5151d5)
-<p></p>
+<p>Berikut merupakan penjelasan sourcecode dari file tiket.java: </p>
+<ol>
+  <li>Pada baris pertama terdapat `package travel` adalah suatu package yang digunakan untuk mengelompokkan kelas dalam direktori yang sama. </li>
+  <li>Pada baris ketiga terdapat `public abstract class tiket {` yang merupakan suatu deklarasi kelas abstrak yang bernama tiket. Kelas abstrak tidak dapat diinisialisasi langsung. </li>
+  <li>Pada baris empat hingga enam  </li>
+</ol>
 
 ### tiket_bisnis.java
 
