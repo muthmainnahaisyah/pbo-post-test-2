@@ -11,7 +11,22 @@ mengubah, menghapus, dan melihat data tiket penerbangan beserta data dari penump
 memanajemen data tiket secara efisien, cepat, dan terstruktur.<p>
 
 ## PENJELASAN SOURCE CODE
-<p><p>
+<p>Terdapat 2 package pada program ini, yaitu package main dan package travel. Pada package main terdapat 1 file class java, yaitu TRAVEL_AGENT_BOOMILY dan pada package travel terdapat 4 file class java, yaitu tiket, tiket_bisnis, tiket_ekonomi, dan manajemen_tiket. Berikut adalah penjelasan sourcecodenya:<p>
+
+### TRAVEL_AGENT_BOOMILY.java
+<p></p>
+
+### tiket.java
+<p></p>
+
+### tiket_bisnis.java
+<p></p>
+
+### tiket_ekonomi.java
+<p></p>
+
+### manajemen_tiket.java
+<p></p>
 
 ## PENJELASAN OUTPUT PROGRAM
 <ol><li>Berikut adalah tampilan awal dari program. Pada tampilan awal ini terdapat 5 pilihan menu, yaitu tampilkan daftar tiket, tambahkan tiket destinasi, ubah tiket  destinasi, hapus tiket destinasi, dan keluar.</li>
