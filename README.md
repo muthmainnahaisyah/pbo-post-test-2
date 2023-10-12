@@ -28,9 +28,12 @@
 ![apbo7](https://github.com/muthmainnahaisyah/pbo-post-test-2/assets/122006658/bb1b49e8-a68e-46be-aba7-b52caa5151d5)
 <p>Berikut merupakan penjelasan sourcecode dari file tiket.java: </p>
 <ol>
-  <li>Pada baris pertama terdapat `package travel` adalah suatu package yang digunakan untuk mengelompokkan kelas dalam direktori yang sama. </li>
-  <li>Pada baris ketiga terdapat `public abstract class tiket {` yang merupakan suatu deklarasi kelas abstrak yang bernama tiket. Kelas abstrak tidak dapat diinisialisasi langsung. </li>
-  <li>Pada baris empat hingga enam  </li>
+  <li>Pada baris 1 terdapat 'package travel;' adalah suatu package yang digunakan untuk mengelompokkan kelas dalam direktori yang sama. </li>
+  <li>Pada baris 3 terdapat 'public abstract class tiket {' merupakan suatu deklarasi kelas abstrak yang bernama tiket. Kelas abstrak tidak dapat diinisialisasi langsung. </li>
+  <li>Pada baris 4 hingga 6  merupakan property yang berguna untuk menyimpan atribut. Ketiga property tersebut diberi access modifer private supaya hanya dapat diakses dalam kelas sendiri dan menerapkan best practice final.</li>
+  <li>Pada baris 8 merupakan konstruktor yang digunakan untuk membuat objek tiket dengan menginisialisasikan atribut. Terdapat tiga parameter, yaitu id, nama_penumpang, dan destinasi. </li>
+  <li>Pada baris 14 hingga 24 menerapkan metode getter untuk menginisialisasi dan pengaksesan property.</li>
+  <li>Pada baris 26 merupakan pendeklarasian metode abstrak yang nantinya akan di implementasikan oleh kelas turunan dari "tiket". </li>
 </ol>
 
 ### tiket_bisnis.java
