@@ -21,7 +21,22 @@
 ![apbo15](https://github.com/muthmainnahaisyah/pbo-post-test-2/assets/122006658/f75179bb-b48c-43c5-b369-026d929779f5)
 
 ![apbo16](https://github.com/muthmainnahaisyah/pbo-post-test-2/assets/122006658/7bcff471-3dde-4a5d-bbd2-4f3f16009644)
-<p></p>
+<p>Berikut merupakan penjelasan sourcecode dari file TRAVEL_AGENT_BOOMILY.java: </p>
+<ol>
+  <li>Pada baris </li>
+  <li>Pada baris </li>
+  <li>Pada baris </li>
+  <li>Pada baris </li>
+  <li>Pada baris </li>
+  <li>Pada baris </li>
+  <li>Pada baris </li>
+  <li>Pada baris </li>
+  <li>Pada baris </li>
+  <li>Pada baris </li>
+  <li>Pada baris </li>
+  <li>Pada baris </li>
+  
+</ol>
 
 ### tiket.java
 
@@ -39,20 +54,43 @@
 ### tiket_bisnis.java
 
 ![apbo8](https://github.com/muthmainnahaisyah/pbo-post-test-2/assets/122006658/2b4eaa02-79c2-4160-9424-64b27b17e0dc)
-<p></p>
+<p>Berikut merupakan penjelasan sourcecode dari file tiket_bisnis.java: </p>
+<ol>
+  <li>Pada baris 3 adalah perintah mendeklarasikan kelas "tiket_bisnis" sebagai turunan dari kelas "tiket".</li>
+  <li>Pada baris 4 merupakan property yang berguna untuk menyimpan atribut. Property tersebut diberi access modifer private supaya hanya dapat diakses dalam kelas sendiri dan menerapkan best practice final supaya nilainya tidak dapat diubah lagi.</li>
+  <li>Pada baris 6 merupakan konstruktor yang digunakan untuk membuat objek tiket_bisnis dengan menginisialisasikan atribut. Terdapat tiga parameter, yaitu id, nama_penumpang, dan destinasi. Konstruktor ini juga menggunakan kata kunci super. </li>
+  <li>Pada baris 11 menerapkan metode getter untuk menginisialisasi dan pengaksesan property. </li>
+  <li>Pada baris 15 menerapkan fitur polymorphism yaitu override, yang menandakan method berikutnya adalah implementasi dari method abstrack.</li>
+</ol>
 
 ### tiket_ekonomi.java
 
 ![apbo9](https://github.com/muthmainnahaisyah/pbo-post-test-2/assets/122006658/1f8da236-d9fa-4221-a58f-9714c5cbe4d5)
-<p></p>
+<p>Berikut merupakan penjelasan sourcecode dari file tiket_ekonomi.java: </p>
+<ol>
+  <li>Pada baris 3 adalah perintah mendeklarasikan kelas "tiket_ekonomi" sebagai turunan dari kelas "tiket".</li>
+  <li>Pada baris 4 merupakan property yang berguna untuk menyimpan atribut. Property tersebut diberi access modifer private supaya hanya dapat diakses dalam kelas sendiri dan menerapkan best practice final supaya nilainya tidak dapat diubah lagi.</li>
+  <li>Pada baris 6 merupakan konstruktor yang digunakan untuk membuat objek tiket_bisnis dengan menginisialisasikan atribut. Terdapat tiga parameter, yaitu id, nama_penumpang, dan destinasi. Konstruktor ini juga menggunakan kata kunci super.</li>
+  <li>Pada baris 11 menerapkan metode getter untuk menginisialisasi dan pengaksesan property.</li>
+  <li>Pada baris 15 menerapkan fitur polymorphism yaitu override, yang menandakan method berikutnya adalah implementasi dari method abstrack.</li>
+</ol>
 
 ### manajemen_tiket.java
 
 ![apbo10](https://github.com/muthmainnahaisyah/pbo-post-test-2/assets/122006658/323a311f-87e0-408f-a193-55fdbe9bab9e)
 
 ![apbo11](https://github.com/muthmainnahaisyah/pbo-post-test-2/assets/122006658/85c2b68d-52a5-4e6f-a71a-23daaab0467e)
-
-<p></p>
+<p>Berikut merupakan penjelasan sourcecode dari file manajemen_tiket.java: </p>
+<ol>
+  <li>Pada baris 3 mengimport kelas ArrayList dari paket java.util yang digunakan untuk menyimpan data.</li>
+  <li>Pada baris 5 mendeklarasikan kelas "manajemen_tiket" yang diberi tanda "final".</li>
+  <li>Pada baris 6 adalah variabel yang digunakan untuk menyimpan daftar tiket. Variabel "tikets" adalah sebuah ArrayList yang berisi objek-objek dari kelas "tiket." Ini diberi tanda "private" dan "static" sehingga hanya dapat diakses dari dalam kelas ini dan bersifat statis.</li>
+  <li>Pada baris 8 adalah method untuk menambahkan tiket baru ke dalam daftar "tikets dan menambahkannya pada ArrayList."</li>
+  <li>Pada baris 12 adalah method yang digunakan untuk menampilkan daftar tiket yang ada dalam "tikets." Metode ini menggunakan loop "for-each" untuk mengakses setiap tiket dalam daftar.</li>
+  <li>Pada baris 19 adalah method yang digunakan untuk memperbarui tiket yang ada dalam daftar berdasarkan id.</li>
+  <li>Pada baris 28 adalah method yang digunakan untuk menghapus tiket berdasarkan id dari daftar "tikets".</li>
+  <li>Pada baris 37 adalah method yang digunakan untuk memeriksa apakah tiket dengan id tertentu ada dalam daftar "tikets". </li>
+</ol>
 
 ## PENJELASAN OUTPUT PROGRAM
 <ol><li>Berikut adalah tampilan awal dari program. Pada tampilan awal ini terdapat 5 pilihan menu, yaitu tampilkan daftar tiket, tambahkan tiket destinasi, ubah tiket  destinasi, hapus tiket destinasi, dan keluar.</li>
